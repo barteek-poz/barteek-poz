@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Router**
 
-- 💬 Ask me about **JavaScript, React, CSS**
+- 💬 Ask me about **JavaScript, React, Tailwind**
 
 - 📫 How to reach me **bartek.j.stefaniak@gmail.com**
 
