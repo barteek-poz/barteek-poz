@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bartek.j.stefaniak@gmail.com**
 
-- ⚡ Fun fact **I have purple belt in brazilian jiu-jitsu**
+- ⚡ Fun fact **I have brown belt in brazilian jiu-jitsu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
