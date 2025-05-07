@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">A passionate front-end developer from Poland</h3>
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **JavaScript, React, Tailwind**
 
